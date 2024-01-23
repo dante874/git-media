@@ -1,0 +1,48 @@
+body {
+    background-color: rgb(109, 15, 15);
+    color: black;
+    margin-top: 200px;
+    
+    display: flex;
+    flex-direction: row;
+}
+
+
+
+@media (min-width: 800px){
+    .container {
+        background-color: rgb(24, 20, 20);
+        padding: 40px;
+        display: flex;
+        flex-direction: row;
+        
+
+    }
+   
+}
+.box1 {
+    background-color: rgb(68, 0, 255);
+    padding: 20px;
+    
+
+}
+.box2 {
+    background-color: rgb(231, 227, 240);
+    padding: 20px;
+    
+    
+    
+
+}
+.box3 {
+    background-color: rgb(8, 224, 51);
+    padding: 20px;
+    
+
+}
+
+
+
+
+
+
